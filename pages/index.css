@@ -2,3 +2,10 @@
 @import url(../vendor/normalize.css);
 
 /*Cтили блоков и элементов*/
+@import url(/blocks/page/page.css);
+@import url(/blocks/box/box.css);
+@import url(/blocks/board/board.css);
+@import url(/blocks/legend/legend.css);
+@import url(/blocks/cell/cell.css);
+@import url(/blocks/cell/--white/cell-white.css);
+@import url(/blocks/cell/--black/cell-black.css);

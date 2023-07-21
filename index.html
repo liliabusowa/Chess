@@ -8,6 +8,23 @@
 </head>
 <body class="page">
     <div class="box">
+        <div class="select">
+            <p class="select__header">Выберите цвет доски</p>
+            <p class="select__header">Выберите цвет фигур</p>
+            <p class="select__header">Выберите ориентацию</p>
+            <select class="select__list">
+                <option value="black-white">Черно-белая</option>
+                <option value="brown-yellow" selected>Коричнево-желтая</option>
+            </select>
+            <select class="select__list">
+                <option value="black-white">Черные и белые</option>
+                <option selected value="brown-yellow">Коричневые и желтые</option>
+            </select>
+            <select class="select__list">
+                <option value="for-black" selected>Ориентация для белых</option>
+                <option value="for-white">Ориентация для черных</option>
+            </select>
+        </div>
         <table class="board">
             <tbody>
                 <tr>

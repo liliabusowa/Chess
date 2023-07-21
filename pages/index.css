@@ -9,3 +9,6 @@
 @import url(/blocks/cell/cell.css);
 @import url(/blocks/cell/--white/cell-white.css);
 @import url(/blocks/cell/--black/cell-black.css);
+@import url(/blocks/select/select.css);
+@import url(/blocks/select/__header/select__header.css);
+@import url(/blocks/select/__list/select__list.css);

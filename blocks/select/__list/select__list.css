@@ -1,0 +1,9 @@
+.select__list {
+    color: #7c5a3e;
+    border-radius: 8px;
+    height: 25px;
+    border: solid 1px #b58863;
+    background-color: #f0d9b5;
+    cursor: pointer;
+    text-align: center;
+}
